@@ -1,0 +1,35 @@
+{
+  "app_versions": {
+    "min_android_version": "0.0.1",
+    "min_ios_version": "0.0.1"
+  },
+  "carousel_items": [
+    {
+      "id": "coming-soon",
+      "image": "coming-soon.webp",
+      "url": null,
+      "label": {
+        "en": "Burma Cat AI for Windows and Mac is coming soon",
+        "my": "Windows နှင့် Mac အတွက် Burma Cat AI မကြာမီ ရရှိမည်"
+      }
+    },
+    {
+      "id": "facebook",
+      "image": "facebook.webp",
+      "url": "https://www.facebook.com/burmacatai",
+      "label": {
+        "en": "Join Burma Cat AI on Facebook",
+        "my": "Burma Cat AI ၏ Facebook စာမျက်နှာသို့ ဝင်ရန်"
+      }
+    },
+    {
+      "id": "youtube",
+      "image": "youtube.webp",
+      "url": "https://www.youtube.com/@burmacatai",
+      "label": {
+        "en": "Join the Burma Cat AI channel",
+        "my": "Burma Cat AI ၏ ချန်နယ်သို့ ဝင်ရန်"
+      }
+    }
+  ]
+}
