@@ -8,6 +8,7 @@
       "id": "coming-soon",
       "image": "coming-soon.webp",
       "url": null,
+      "action": "desktop_promo",
       "label": {
         "en": "Burma Cat AI for Windows and Mac is coming soon",
         "my": "Windows နှင့် Mac အတွက် Burma Cat AI မကြာမီ ရရှိမည်"
