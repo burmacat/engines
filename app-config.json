@@ -31,6 +31,15 @@
         "en": "Join the Burma Cat AI channel",
         "my": "Burma Cat AI ၏ ချန်နယ်သို့ ဝင်ရန်"
       }
+    },
+    {
+      "id": "tiktok",
+      "image": "tiktok.webp",
+      "url": "https://www.tiktok.com/@burmacatai",
+      "label": {
+        "en": "Join Burma Cat AI on TikTok",
+        "my": "Burma Cat AI ၏ TikTok သို့ ဝင်ရန်"
+      }
     }
   ]
 }
