@@ -15,6 +15,15 @@
       }
     },
     {
+      "id": "telegram",
+      "image": "telegram.webp",
+      "url": "https://t.me/burmacatai",
+      "label": {
+        "en": "Join Burma Cat AI on Telegram",
+        "my": "Burma Cat AI ၏ Telegram သို့ ဝင်ရန်"
+      }
+    },
+    {
       "id": "facebook",
       "image": "facebook.webp",
       "url": "https://www.facebook.com/burmacatai",
