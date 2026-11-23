@@ -50,5 +50,461 @@
         "my": "Burma Cat AI ၏ TikTok သို့ ဝင်ရန်"
       }
     }
+  ],
+  "help_items": [
+    {
+      "id": "add-link",
+      "video": "add-link-1b9bd756.mp4",
+      "image": "add-link-1b9bd756.webp",
+      "title": {
+        "en": "How do I get a video's link and download it?",
+        "my": "ဗီဒီယို လင့်ခ် ယူပြီး Burma Cat ထဲ ဒေါင်းနည်း"
+      },
+      "seconds": 84,
+      "bytes": 5313763,
+      "place": "videos"
+    },
+    {
+      "id": "add-file",
+      "video": "add-file-e3a2de58.mp4",
+      "image": "add-file-e3a2de58.webp",
+      "title": {
+        "en": "How do I add a video that is on my phone?",
+        "my": "ဖုန်းထဲက ဗီဒီယိုကို Burma Cat ထဲ ထည့်နည်း"
+      },
+      "seconds": 35,
+      "bytes": 2187202,
+      "place": "videos"
+    },
+    {
+      "id": "row-chips",
+      "video": "row-chips-d2db92a8.mp4",
+      "image": "row-chips-d2db92a8.webp",
+      "title": {
+        "en": "What do the marks on a video mean?",
+        "my": "ဗီဒီယို အောက်က အမှတ်အသားများ"
+      },
+      "seconds": 30,
+      "bytes": 1870563,
+      "place": "videos"
+    },
+    {
+      "id": "stop-remove",
+      "video": "stop-remove-d3448a14.mp4",
+      "image": "stop-remove-d3448a14.webp",
+      "title": {
+        "en": "How do I stop a download or remove a video?",
+        "my": "ဒေါင်းတာ ရပ်နည်း၊ ဗီဒီယို ဖယ်နည်း"
+      },
+      "seconds": 29,
+      "bytes": 1938009,
+      "place": "videos"
+    },
+    {
+      "id": "make-captions",
+      "video": "make-captions-081d7f8d.mp4",
+      "image": "make-captions-081d7f8d.webp",
+      "title": {
+        "en": "My video has no captions: how do I make them?",
+        "my": "စာတန်း မပါတဲ့ ဗီဒီယိုအတွက် စာတန်း လုပ်နည်း"
+      },
+      "seconds": 49,
+      "bytes": 3008061,
+      "place": "script"
+    },
+    {
+      "id": "change-subs",
+      "video": "change-subs-b7f21684.mp4",
+      "image": "change-subs-b7f21684.webp",
+      "title": {
+        "en": "How do I use another subtitle file?",
+        "my": "စာတန်း ဖိုင်ကို ကိုယ့်ဖိုင်နဲ့ ပြောင်းနည်း"
+      },
+      "seconds": 31,
+      "bytes": 2061072,
+      "place": "script"
+    },
+    {
+      "id": "who-speaks",
+      "video": "who-speaks-07fc55e4.mp4",
+      "image": "who-speaks-07fc55e4.webp",
+      "title": {
+        "en": "What is who speaks, and should I wait for it?",
+        "my": "ဘယ်သူ ပြောသလဲ ဆိုတာ ဘာလဲ"
+      },
+      "seconds": 33,
+      "bytes": 1912976,
+      "place": "script"
+    },
+    {
+      "id": "narrate-dub",
+      "video": "narrate-dub-d3c14d47.mp4",
+      "image": "narrate-dub-d3c14d47.webp",
+      "title": {
+        "en": "Narrate or Dub: which one?",
+        "my": "ဇာတ်ကြောင်းပြော နဲ့ အသံထပ် ဘာကွာလဲ"
+      },
+      "seconds": 33,
+      "bytes": 2095314,
+      "place": "script"
+    },
+    {
+      "id": "script-chatgpt",
+      "video": "script-chatgpt-ffa81f9b.mp4",
+      "image": "script-chatgpt-ffa81f9b.webp",
+      "title": {
+        "en": "How do I make the Burmese script with ChatGPT?",
+        "my": "ChatGPT နဲ့ မြန်မာ ဇာတ်ညွှန်း ရေးနည်း"
+      },
+      "seconds": 53,
+      "bytes": 4353831,
+      "place": "script"
+    },
+    {
+      "id": "script-parts",
+      "video": "script-parts-8abc3ab3.mp4",
+      "image": "script-parts-8abc3ab3.webp",
+      "title": {
+        "en": "My video is long: what is Prompt 1/6?",
+        "my": "ဗီဒီယို ရှည်ရင် Prompt အပိုင်းလိုက်"
+      },
+      "seconds": 35,
+      "bytes": 1912168,
+      "place": "script"
+    },
+    {
+      "id": "script-missing",
+      "video": "script-missing-f2b1b9a4.mp4",
+      "image": "script-missing-f2b1b9a4.webp",
+      "title": {
+        "en": "It says parts are missing or short",
+        "my": "အပိုင်း ကျန်တယ်၊ တိုလွန်းတယ် ပြရင်"
+      },
+      "seconds": 33,
+      "bytes": 2108604,
+      "place": "script"
+    },
+    {
+      "id": "make-all",
+      "video": "make-all-536d2696.mp4",
+      "image": "make-all-536d2696.webp",
+      "title": {
+        "en": "How do I make every voice?",
+        "my": "စာကြောင်း အားလုံးအတွက် အသံ ထုတ်နည်း"
+      },
+      "seconds": 37,
+      "bytes": 2372263,
+      "place": "voices"
+    },
+    {
+      "id": "voice-speed",
+      "video": "voice-speed-2f42850d.mp4",
+      "image": "voice-speed-2f42850d.webp",
+      "title": {
+        "en": "How do I change the voice or the speed?",
+        "my": "အသံ နဲ့ အမြန်နှုန်း ပြောင်းနည်း"
+      },
+      "seconds": 32,
+      "bytes": 2480837,
+      "place": "voices"
+    },
+    {
+      "id": "edit-line",
+      "video": "edit-line-fb2fe6b0.mp4",
+      "image": "edit-line-fb2fe6b0.webp",
+      "title": {
+        "en": "How do I hear one line and change its words?",
+        "my": "စာကြောင်း တစ်ကြောင်း နားထောင်ပြီး ပြင်နည်း"
+      },
+      "seconds": 35,
+      "bytes": 2406277,
+      "place": "voices"
+    },
+    {
+      "id": "record-line",
+      "video": "record-line-cc03ec05.mp4",
+      "image": "record-line-cc03ec05.webp",
+      "title": {
+        "en": "How do I record a line in my own voice?",
+        "my": "ကိုယ့်အသံနဲ့ အသံသွင်းနည်း"
+      },
+      "seconds": 32,
+      "bytes": 2078434,
+      "place": "voices"
+    },
+    {
+      "id": "fix-lines",
+      "video": "fix-lines-66022890.mp4",
+      "image": "fix-lines-66022890.webp",
+      "title": {
+        "en": "How do I ask the AI to rewrite some lines?",
+        "my": "စာကြောင်း တချို့ ပြန်ရေးခိုင်းနည်း"
+      },
+      "seconds": 36,
+      "bytes": 2425547,
+      "place": "voices"
+    },
+    {
+      "id": "battery",
+      "video": "battery-1b6be50d.mp4",
+      "image": "battery-1b6be50d.webp",
+      "title": {
+        "en": "My voices stop when the screen turns off",
+        "my": "ဖန်သားပြင် ပိတ်ရင် အသံ ရပ်သွားလား"
+      },
+      "seconds": 34,
+      "bytes": 1747274,
+      "place": "voices"
+    },
+    {
+      "id": "open-editor",
+      "video": "open-editor-bc9eb85a.mp4",
+      "image": "open-editor-bc9eb85a.webp",
+      "title": {
+        "en": "Why is the editor grey, and how do I open it?",
+        "my": "တည်းဖြတ်ခန်း ဘာလို့ မှိန်နေလဲ၊ ဘယ်လို ဖွင့်မလဲ"
+      },
+      "seconds": 34,
+      "bytes": 1945345,
+      "place": "editor"
+    },
+    {
+      "id": "blur-subs",
+      "video": "blur-subs-09bf8c1b.mp4",
+      "image": "blur-subs-09bf8c1b.webp",
+      "title": {
+        "en": "How do I hide the old subtitles?",
+        "my": "မူရင်း စာတန်းတွေ ဖုံးနည်း"
+      },
+      "seconds": 34,
+      "bytes": 2400761,
+      "place": "editor"
+    },
+    {
+      "id": "caption-look",
+      "video": "caption-look-1d666682.mp4",
+      "image": "caption-look-1d666682.webp",
+      "title": {
+        "en": "How do I change the captions' size, colour or place?",
+        "my": "စာတန်း အရွယ်၊ အရောင်၊ နေရာ ပြောင်းနည်း"
+      },
+      "seconds": 34,
+      "bytes": 2423926,
+      "place": "editor"
+    },
+    {
+      "id": "title-logo",
+      "video": "title-logo-52c39861.mp4",
+      "image": "title-logo-52c39861.webp",
+      "title": {
+        "en": "How do I add a title or my logo?",
+        "my": "ခေါင်းစဉ် နဲ့ လိုဂို ထည့်နည်း"
+      },
+      "seconds": 36,
+      "bytes": 2404051,
+      "place": "editor"
+    },
+    {
+      "id": "ratio",
+      "video": "ratio-3b21c953.mp4",
+      "image": "ratio-3b21c953.webp",
+      "title": {
+        "en": "How do I make it upright, scale or mirror it?",
+        "my": "ဒေါင်လိုက်၊ ချဲ့၊ လှန်နည်း"
+      },
+      "seconds": 32,
+      "bytes": 1875186,
+      "place": "editor"
+    },
+    {
+      "id": "cut-clip",
+      "video": "cut-clip-4224a652.mp4",
+      "image": "cut-clip-4224a652.webp",
+      "title": {
+        "en": "How do I cut a part out or speed a clip up?",
+        "my": "အပိုင်း ဖြတ်နည်း၊ မြန်အောင် လုပ်နည်း"
+      },
+      "seconds": 33,
+      "bytes": 2017098,
+      "place": "editor"
+    },
+    {
+      "id": "colour",
+      "video": "colour-47851c6e.mp4",
+      "image": "colour-47851c6e.webp",
+      "title": {
+        "en": "How do I change the colour look?",
+        "my": "ဗီဒီယို အရောင် ပြောင်းနည်း"
+      },
+      "seconds": 26,
+      "bytes": 1669350,
+      "place": "editor"
+    },
+    {
+      "id": "sound-cc",
+      "video": "sound-cc-541d54d0.mp4",
+      "image": "sound-cc-541d54d0.webp",
+      "title": {
+        "en": "How do I turn the film's sound or the captions on and off?",
+        "my": "မူလအသံ နဲ့ စာတန်း ဖွင့်နည်း ပိတ်နည်း"
+      },
+      "seconds": 29,
+      "bytes": 2230892,
+      "place": "editor"
+    },
+    {
+      "id": "export",
+      "video": "export-dc76519f.mp4",
+      "image": "export-dc76519f.webp",
+      "title": {
+        "en": "How do I export the finished video?",
+        "my": "ပြီးသွားတဲ့ ဗီဒီယို ထုတ်နည်း"
+      },
+      "seconds": 37,
+      "bytes": 2586677,
+      "place": "exports"
+    },
+    {
+      "id": "find-video",
+      "video": "find-video-6dbd2103.mp4",
+      "image": "find-video-6dbd2103.webp",
+      "title": {
+        "en": "Where is my finished video?",
+        "my": "ထုတ်ပြီးသား ဗီဒီယို ဘယ်မှာ ရှာမလဲ"
+      },
+      "seconds": 32,
+      "bytes": 1804073,
+      "place": "exports"
+    },
+    {
+      "id": "resume-export",
+      "video": "resume-export-70d24322.mp4",
+      "image": "resume-export-70d24322.webp",
+      "title": {
+        "en": "My export stopped: how do I finish it?",
+        "my": "ရပ်သွားတဲ့ ဗီဒီယို ဆက်ထုတ်နည်း"
+      },
+      "seconds": 33,
+      "bytes": 2259657,
+      "place": "exports"
+    },
+    {
+      "id": "fair-use",
+      "video": "fair-use-ef5c14e5.mp4",
+      "image": "fair-use-ef5c14e5.webp",
+      "title": {
+        "en": "What is Fair Use for Recap?",
+        "my": "Recap အတွက် Fair Use ဆိုတာ ဘာလဲ"
+      },
+      "seconds": 37,
+      "bytes": 1727486,
+      "place": "exports"
+    },
+    {
+      "id": "ex-code",
+      "video": "ex-code-6dc61115.mp4",
+      "image": "ex-code-6dc61115.webp",
+      "title": {
+        "en": "My export shows an error code",
+        "my": "ထုတ်တာ မအောင်မြင်ဘဲ EX ကုဒ် ပြရင်"
+      },
+      "seconds": 34,
+      "bytes": 2079669,
+      "place": "exports"
+    },
+    {
+      "id": "low-space",
+      "video": "low-space-28ac9dfc.mp4",
+      "image": "low-space-28ac9dfc.webp",
+      "title": {
+        "en": "My phone is full",
+        "my": "ဖုန်းထဲ နေရာ မလောက်ရင်"
+      },
+      "seconds": 36,
+      "bytes": 2035747,
+      "place": "exports"
+    },
+    {
+      "id": "text-speech",
+      "video": "text-speech-116ee286.mp4",
+      "image": "text-speech-116ee286.webp",
+      "title": {
+        "en": "How do I turn Burmese text into speech?",
+        "my": "မြန်မာစာကို အသံ ပြောင်းနည်း"
+      },
+      "seconds": 31,
+      "bytes": 1568637,
+      "place": "voice"
+    },
+    {
+      "id": "save-voice",
+      "video": "save-voice-17806236.mp4",
+      "image": "save-voice-17806236.webp",
+      "title": {
+        "en": "How do I save a voice to my phone?",
+        "my": "အသံကို ဖုန်းထဲ သိမ်းနည်း"
+      },
+      "seconds": 27,
+      "bytes": 1104079,
+      "place": "voice"
+    },
+    {
+      "id": "own-voice",
+      "video": "own-voice-7a5eab2d.mp4",
+      "image": "own-voice-7a5eab2d.webp",
+      "title": {
+        "en": "How do I make my own voice?",
+        "my": "ကိုယ်ပိုင် အသံ ဖန်တီးနည်း"
+      },
+      "seconds": 39,
+      "bytes": 1642697,
+      "place": "voice"
+    },
+    {
+      "id": "get-pro",
+      "video": "get-pro-f2715355.mp4",
+      "image": "get-pro-f2715355.webp",
+      "title": {
+        "en": "How do I download a better voice engine?",
+        "my": "ပိုကောင်းတဲ့ အသံ အင်ဂျင် ဒေါင်းနည်း"
+      },
+      "seconds": 43,
+      "bytes": 2517596,
+      "place": "engine"
+    },
+    {
+      "id": "download-failed",
+      "video": "download-failed-19a4b316.mp4",
+      "image": "download-failed-19a4b316.webp",
+      "title": {
+        "en": "An engine download failed or is used up today",
+        "my": "အင်ဂျင် ဒေါင်းလို့ မရရင်"
+      },
+      "seconds": 31,
+      "bytes": 1719393,
+      "place": "engine"
+    },
+    {
+      "id": "update",
+      "video": "update-fe8d76ab.mp4",
+      "image": "update-fe8d76ab.webp",
+      "title": {
+        "en": "Update needed: how do I update?",
+        "my": "ဗားရှင်းသစ် လိုအပ်ရင် အပ်ဒိတ် လုပ်နည်း"
+      },
+      "seconds": 31,
+      "bytes": 1478485
+    },
+    {
+      "id": "signed-out",
+      "video": "signed-out-26e587fc.mp4",
+      "image": "signed-out-26e587fc.webp",
+      "title": {
+        "en": "Why was I signed out?",
+        "my": "အကောင့်ကနေ ဘာလို့ ထွက်သွားလဲ"
+      },
+      "seconds": 31,
+      "bytes": 1652523
+    }
   ]
 }
