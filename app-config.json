@@ -1,7 +1,7 @@
 {
   "app_versions": {
-    "min_android_version": "0.0.6",
-    "min_ios_version": "0.0.6"
+    "min_android_version": "1.0.0,
+    "min_ios_version": "1.0.0"
   },
   "carousel_items": [
     {
