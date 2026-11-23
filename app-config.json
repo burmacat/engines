@@ -62,7 +62,9 @@
       },
       "seconds": 84,
       "bytes": 5313763,
-      "place": "videos"
+      "place": "videos",
+      "icon": "link",
+      "step": 1
     },
     {
       "id": "add-file",
@@ -74,7 +76,8 @@
       },
       "seconds": 35,
       "bytes": 2187202,
-      "place": "videos"
+      "place": "videos",
+      "icon": "folder"
     },
     {
       "id": "row-chips",
@@ -86,7 +89,8 @@
       },
       "seconds": 30,
       "bytes": 1870563,
-      "place": "videos"
+      "place": "videos",
+      "icon": "info"
     },
     {
       "id": "stop-remove",
@@ -98,7 +102,8 @@
       },
       "seconds": 29,
       "bytes": 1938009,
-      "place": "videos"
+      "place": "videos",
+      "icon": "trash"
     },
     {
       "id": "make-captions",
@@ -110,7 +115,8 @@
       },
       "seconds": 49,
       "bytes": 3008061,
-      "place": "script"
+      "place": "script",
+      "icon": "captions"
     },
     {
       "id": "change-subs",
@@ -122,7 +128,8 @@
       },
       "seconds": 31,
       "bytes": 2061072,
-      "place": "script"
+      "place": "script",
+      "icon": "upload"
     },
     {
       "id": "who-speaks",
@@ -134,7 +141,8 @@
       },
       "seconds": 33,
       "bytes": 1912976,
-      "place": "script"
+      "place": "script",
+      "icon": "narrator"
     },
     {
       "id": "narrate-dub",
@@ -146,7 +154,8 @@
       },
       "seconds": 33,
       "bytes": 2095314,
-      "place": "script"
+      "place": "script",
+      "icon": "translate"
     },
     {
       "id": "script-chatgpt",
@@ -158,7 +167,9 @@
       },
       "seconds": 53,
       "bytes": 4353831,
-      "place": "script"
+      "place": "script",
+      "icon": "paste",
+      "step": 2
     },
     {
       "id": "script-parts",
@@ -170,7 +181,8 @@
       },
       "seconds": 35,
       "bytes": 1912168,
-      "place": "script"
+      "place": "script",
+      "icon": "copy"
     },
     {
       "id": "script-missing",
@@ -182,7 +194,8 @@
       },
       "seconds": 33,
       "bytes": 2108604,
-      "place": "script"
+      "place": "script",
+      "icon": "warning"
     },
     {
       "id": "make-all",
@@ -194,7 +207,9 @@
       },
       "seconds": 37,
       "bytes": 2372263,
-      "place": "voices"
+      "place": "voices",
+      "icon": "waveform",
+      "step": 3
     },
     {
       "id": "voice-speed",
@@ -206,7 +221,8 @@
       },
       "seconds": 32,
       "bytes": 2480837,
-      "place": "voices"
+      "place": "voices",
+      "icon": "gauge"
     },
     {
       "id": "edit-line",
@@ -218,7 +234,8 @@
       },
       "seconds": 35,
       "bytes": 2406277,
-      "place": "voices"
+      "place": "voices",
+      "icon": "edit"
     },
     {
       "id": "record-line",
@@ -230,7 +247,8 @@
       },
       "seconds": 32,
       "bytes": 2078434,
-      "place": "voices"
+      "place": "voices",
+      "icon": "mic"
     },
     {
       "id": "fix-lines",
@@ -242,7 +260,8 @@
       },
       "seconds": 36,
       "bytes": 2425547,
-      "place": "voices"
+      "place": "voices",
+      "icon": "sparkle"
     },
     {
       "id": "battery",
@@ -254,7 +273,8 @@
       },
       "seconds": 34,
       "bytes": 1747274,
-      "place": "voices"
+      "place": "voices",
+      "icon": "battery"
     },
     {
       "id": "open-editor",
@@ -266,7 +286,9 @@
       },
       "seconds": 34,
       "bytes": 1945345,
-      "place": "editor"
+      "place": "editor",
+      "icon": "sliders",
+      "step": 4
     },
     {
       "id": "blur-subs",
@@ -278,7 +300,8 @@
       },
       "seconds": 34,
       "bytes": 2400761,
-      "place": "editor"
+      "place": "editor",
+      "icon": "square"
     },
     {
       "id": "caption-look",
@@ -290,7 +313,8 @@
       },
       "seconds": 34,
       "bytes": 2423926,
-      "place": "editor"
+      "place": "editor",
+      "icon": "text"
     },
     {
       "id": "title-logo",
@@ -302,7 +326,8 @@
       },
       "seconds": 36,
       "bytes": 2404051,
-      "place": "editor"
+      "place": "editor",
+      "icon": "image"
     },
     {
       "id": "ratio",
@@ -314,7 +339,8 @@
       },
       "seconds": 32,
       "bytes": 1875186,
-      "place": "editor"
+      "place": "editor",
+      "icon": "scale"
     },
     {
       "id": "cut-clip",
@@ -326,7 +352,8 @@
       },
       "seconds": 33,
       "bytes": 2017098,
-      "place": "editor"
+      "place": "editor",
+      "icon": "scissors"
     },
     {
       "id": "colour",
@@ -338,7 +365,8 @@
       },
       "seconds": 26,
       "bytes": 1669350,
-      "place": "editor"
+      "place": "editor",
+      "icon": "palette"
     },
     {
       "id": "sound-cc",
@@ -350,7 +378,8 @@
       },
       "seconds": 29,
       "bytes": 2230892,
-      "place": "editor"
+      "place": "editor",
+      "icon": "music"
     },
     {
       "id": "export",
@@ -362,7 +391,9 @@
       },
       "seconds": 37,
       "bytes": 2586677,
-      "place": "exports"
+      "place": "exports",
+      "icon": "export",
+      "step": 5
     },
     {
       "id": "find-video",
@@ -374,7 +405,8 @@
       },
       "seconds": 32,
       "bytes": 1804073,
-      "place": "exports"
+      "place": "exports",
+      "icon": "film"
     },
     {
       "id": "resume-export",
@@ -386,7 +418,8 @@
       },
       "seconds": 33,
       "bytes": 2259657,
-      "place": "exports"
+      "place": "exports",
+      "icon": "forward"
     },
     {
       "id": "fair-use",
@@ -398,7 +431,8 @@
       },
       "seconds": 37,
       "bytes": 1727486,
-      "place": "exports"
+      "place": "exports",
+      "icon": "info"
     },
     {
       "id": "ex-code",
@@ -410,7 +444,8 @@
       },
       "seconds": 34,
       "bytes": 2079669,
-      "place": "exports"
+      "place": "exports",
+      "icon": "warning"
     },
     {
       "id": "low-space",
@@ -422,7 +457,8 @@
       },
       "seconds": 36,
       "bytes": 2035747,
-      "place": "exports"
+      "place": "exports",
+      "icon": "trash"
     },
     {
       "id": "text-speech",
@@ -434,7 +470,8 @@
       },
       "seconds": 31,
       "bytes": 1568637,
-      "place": "voice"
+      "place": "voice",
+      "icon": "text"
     },
     {
       "id": "save-voice",
@@ -446,7 +483,8 @@
       },
       "seconds": 27,
       "bytes": 1104079,
-      "place": "voice"
+      "place": "voice",
+      "icon": "download"
     },
     {
       "id": "own-voice",
@@ -458,7 +496,8 @@
       },
       "seconds": 39,
       "bytes": 1642697,
-      "place": "voice"
+      "place": "voice",
+      "icon": "user"
     },
     {
       "id": "get-pro",
@@ -470,7 +509,8 @@
       },
       "seconds": 43,
       "bytes": 2517596,
-      "place": "engine"
+      "place": "engine",
+      "icon": "cpu"
     },
     {
       "id": "download-failed",
@@ -482,7 +522,8 @@
       },
       "seconds": 31,
       "bytes": 1719393,
-      "place": "engine"
+      "place": "engine",
+      "icon": "refresh"
     },
     {
       "id": "update",
@@ -493,7 +534,8 @@
         "my": "ဗားရှင်းသစ် လိုအပ်ရင် အပ်ဒိတ် လုပ်နည်း"
       },
       "seconds": 31,
-      "bytes": 1478485
+      "bytes": 1478485,
+      "icon": "bell"
     },
     {
       "id": "signed-out",
@@ -504,7 +546,8 @@
         "my": "အကောင့်ကနေ ဘာလို့ ထွက်သွားလဲ"
       },
       "seconds": 31,
-      "bytes": 1652523
+      "bytes": 1652523,
+      "icon": "signOut"
     }
   ]
 }
