@@ -106,6 +106,19 @@
       "icon": "trash"
     },
     {
+      "id": "translate",
+      "video": "translate-f1645054.mp4",
+      "image": "translate-f1645054.webp",
+      "title": {
+        "en": "How do I put translated subtitles on a video?",
+        "my": "ဗီဒီယိုကို ဘာသာပြန် စာတန်းနဲ့ ထုတ်နည်း"
+      },
+      "seconds": 73,
+      "bytes": 5197253,
+      "place": "videos",
+      "icon": "translate"
+    },
+    {
       "id": "make-captions",
       "video": "make-captions-081d7f8d.mp4",
       "image": "make-captions-081d7f8d.webp",
@@ -341,6 +354,32 @@
       "bytes": 1875186,
       "place": "editor",
       "icon": "scale"
+    },
+    {
+      "id": "border",
+      "video": "border-e5b45f83.mp4",
+      "image": "border-e5b45f83.webp",
+      "title": {
+        "en": "How do I add a border round the video?",
+        "my": "ဗီဒီယိုမှာ ဘောင် ထည့်နည်း"
+      },
+      "seconds": 41,
+      "bytes": 3407290,
+      "place": "editor",
+      "icon": "frame"
+    },
+    {
+      "id": "full-screen",
+      "video": "full-screen-89ee7d10.mp4",
+      "image": "full-screen-89ee7d10.webp",
+      "title": {
+        "en": "How do I watch the video at full screen?",
+        "my": "ဗီဒီယိုကို မျက်နှာပြင် အပြည့် ကြည့်နည်း"
+      },
+      "seconds": 45,
+      "bytes": 2838793,
+      "place": "editor",
+      "icon": "fullscreen"
     },
     {
       "id": "cut-clip",
