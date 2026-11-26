@@ -64,7 +64,8 @@
       "bytes": 5313763,
       "place": "videos",
       "icon": "link",
-      "step": 1
+      "step": 1,
+      "android_only": true
     },
     {
       "id": "add-file",
@@ -77,7 +78,8 @@
       "seconds": 35,
       "bytes": 2187202,
       "place": "videos",
-      "icon": "folder"
+      "icon": "folder",
+      "ios_step": 1
     },
     {
       "id": "row-chips",
@@ -103,7 +105,8 @@
       "seconds": 29,
       "bytes": 1938009,
       "place": "videos",
-      "icon": "trash"
+      "icon": "trash",
+      "android_only": true
     },
     {
       "id": "translate",
@@ -287,7 +290,8 @@
       "seconds": 34,
       "bytes": 1747274,
       "place": "voices",
-      "icon": "battery"
+      "icon": "battery",
+      "android_only": true
     },
     {
       "id": "open-editor",
@@ -574,7 +578,8 @@
       },
       "seconds": 31,
       "bytes": 1478485,
-      "icon": "bell"
+      "icon": "bell",
+      "android_only": true
     },
     {
       "id": "signed-out",
@@ -587,6 +592,32 @@
       "seconds": 31,
       "bytes": 1652523,
       "icon": "signOut"
+    },
+    {
+      "id": "japanese",
+      "video": "japanese-1ada327b.mp4",
+      "image": "japanese-1ada327b.webp",
+      "title": {
+        "en": "How do I make a video in Japanese?",
+        "my": "ဗီဒီယိုကို ဂျပန်လို လုပ်နည်း"
+      },
+      "seconds": 92,
+      "bytes": 6894957,
+      "place": "videos",
+      "icon": "translate"
+    },
+    {
+      "id": "remove-unnecessary",
+      "video": "remove-unnecessary-cc53c318.mp4",
+      "image": "remove-unnecessary-cc53c318.webp",
+      "title": {
+        "en": "How do I cut out the parts with no voice?",
+        "my": "အသံ မပါတဲ့ နေရာတွေ ဖြတ်ထုတ်နည်း"
+      },
+      "seconds": 53,
+      "bytes": 3932578,
+      "place": "editor",
+      "icon": "timer"
     }
   ]
 }
